@@ -1,5 +1,8 @@
 # YouTube Music Archiver (Navidrome Ready)
 
+> Another Language / Bahasa lainnya
+> [English](README.md)
+
 Skrip otomatisasi berbasis Windows Batch (`.bat`) untuk mengunduh trek audio tunggal (*single track*) maupun album/playlist penuh dari YouTube dan YouTube Music, lengkap dengan injeksi metadata terstruktur, lirik tersinkronisasi (*synchronized lyrics*), dan pemotongan (*cropping*) *cover art* rasio 1:1 untuk kebutuhan server media **Navidrome**.
 
 ## Fitur Utama
