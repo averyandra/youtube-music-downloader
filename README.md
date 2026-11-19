@@ -77,7 +77,7 @@ deno --version
 
 1. Simpan kode skrip sebagai `download_navidrome.bat` dengan *character encoding* **UTF-8**.
 
-2. Eksekusi `download_navidrome.bat` (klik dua kali melalui File Explorer atau panggil melalui CLI).
+2. Eksekusi `yt_music_download.bat` (klik dua kali melalui File Explorer atau panggil melalui CLI).
 
 3. Tempel (*paste*) URL video YouTube, album YouTube Music, atau *playlist*, lalu tekan **Enter**.
 
